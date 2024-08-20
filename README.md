@@ -1,3 +1,3 @@
 # BI-Developer-Assignment
 ## 1 round_pdf
-select* from table_name
+**Scenario: You are given a dataset containing information about global temperatures and CO2 emissions**.
